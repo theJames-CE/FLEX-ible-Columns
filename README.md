@@ -26,4 +26,6 @@ Using the HTML provided below and <i>reusing</i> the <b>.row</b> and <b>.col</b>
 
 Using the HTML provided below and <i>reusing</i> the <b>.row</b> and <b>.col-2</b>, classes from before, create a <b>.col-3</b> class inside of our CSS. We want it to appear as a layout with a <b>2/5 of the space box</b> and a <b>3/5 of the space box</b>.
 
+![image](https://user-images.githubusercontent.com/124546382/227829591-d5cc277d-51bc-4761-a97a-dc156111e945.png)
+
 #CodingDojo
